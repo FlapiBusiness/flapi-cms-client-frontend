@@ -27,6 +27,7 @@ export default defineNuxtConfig({
     '@nuxtjs/sitemap',
     'nuxt-seo-utils',
     '@flapi/cms-designsystem',
+    '@flapi/cms-admin',
   ],
   // Enables the development server to be discoverable by other devices when running on iOS physical devices
   devServer: {

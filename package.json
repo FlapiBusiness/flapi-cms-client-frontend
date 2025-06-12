@@ -131,6 +131,7 @@
     "@capacitor/ios": "^7.3.0",
     "@capacitor/splash-screen": "^7.0.1",
     "@capawesome/capacitor-app-update": "^7.0.1",
+    "@flapi/cms-admin": "^1.0.0",
     "@pinia/nuxt": "^0.11.1",
     "@tauri-apps/api": "^2.5.0",
     "@tauri-apps/plugin-updater": "^2.7.1",
